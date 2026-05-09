@@ -107,3 +107,10 @@ All penalty scores are derived purely from edge-weight accumulation — no `if/e
 
 ## Results
 
+input image:
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/cb776b50-ba72-4730-b8b0-eeeee85e9f00" />
+
+output:
+<img width="1600" height="533" alt="image" src="https://github.com/user-attachments/assets/593ca27b-bf50-4ca9-9743-290daa947db5" />
+
+
